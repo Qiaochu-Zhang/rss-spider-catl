@@ -2,9 +2,11 @@ name: RSS Spider
 
 on:
   schedule:
-    # 每天 UTC 时间 01:00 运行（北京时间 09:00）
-    - cron: "0 1 * * *"
-  workflow_dispatch:   # 允许手动触发
+    - cron: "0 1 * * *"   # 每天 UTC 01:00 运行
+  workflow_dispatch:
+
+permissions:
+  contents: write   # 允许 Actions 修改代码并 push
 
 jobs:
   run-rss-spider:
@@ -13,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
