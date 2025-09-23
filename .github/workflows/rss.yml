@@ -1,0 +1,36 @@
+name: RSS Spider
+
+on:
+  schedule:
+    # 每天 UTC 时间 01:00 运行（相当于北京时间 09:00）
+    - cron: "0 1 * * *"
+  workflow_dispatch:   # 允许手动触发
+
+jobs:
+  run-rss-spider:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run spider
+        run: |
+          python spider_yesterday.py
+
+      - name: Upload results
+        uses: actions/upload-artifact@v3
+        with:
+          name: rss-results
+          path: |
+            *.csv
+            output/
