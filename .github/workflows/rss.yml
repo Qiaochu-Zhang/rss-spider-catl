@@ -2,7 +2,7 @@ name: RSS Spider
 
 on:
   schedule:
-    # 每天 UTC 时间 01:00 运行（相当于北京时间 09:00）
+    # 每天 UTC 时间 01:00 运行（北京时间 09:00）
     - cron: "0 1 * * *"
   workflow_dispatch:   # 允许手动触发
 
@@ -20,17 +20,15 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run spider
-        run: |
-          python spider_yesterday.py
+        run: python spider_yesterday.py
 
-      - name: Upload results
-        uses: actions/upload-artifact@v3
-        with:
-          name: rss-results
-          path: |
-            *.csv
-            output/
+      - name: Commit results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/*.csv
+          git commit -m "Add RSS results for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
