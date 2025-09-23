@@ -27,7 +27,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run spider
-        run: python spider_yesterday.py
+        run: python spider_yesterday_matoday.py
 
       - name: Commit results
         run: |
