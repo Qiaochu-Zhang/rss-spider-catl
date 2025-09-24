@@ -2,7 +2,7 @@ name: RSS Spider
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # 每 5 分钟运行一次
+    - cron: "0 1 * * *"   # 每天 UTC 01:00 运行
     
   workflow_dispatch:
 
