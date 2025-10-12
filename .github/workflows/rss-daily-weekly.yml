@@ -30,7 +30,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run spider for UTC yesterday
-        run: python spider_yesterday_matoday.py
+        run: python spider_yesterday_1012.py
 
       - name: Commit daily results
         run: |
