@@ -212,7 +212,7 @@ df = pd.DataFrame(records)
 
 # 输出
 os.makedirs("output", exist_ok=True)
-file_name = f"output/news12_{yesterday.strftime('%Y-%m-%d')}.csv"
+file_name = f"output/news_{yesterday.strftime('%Y-%m-%d')}.csv"
 
 if df.empty:
     df.to_csv(file_name, index=False, encoding="utf-8-sig")
@@ -232,3 +232,4 @@ else:
 
     print(f"✅ 抓取完成，共 {len(df_dedup)} 条，已保存到 {file_name}")
     print(f"时间范围：{yesterday} (UTC 日期)")
+
