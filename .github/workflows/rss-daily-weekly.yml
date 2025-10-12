@@ -9,6 +9,11 @@ on:
 permissions:
   contents: write   # 允许 Actions push
 
+# 防止两个触发器并发写 main 导致冲突
+concurrency:
+  group: rss-spider-main
+  cancel-in-progress: false
+
 jobs:
   run-rss-spider:
     # 每天那条 cron 或手动触发都可以跑这个 job
@@ -17,6 +22,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0              # 允许后续 pull/rebase
+          persist-credentials: true
 
       - name: Print UTC time
         run: date -u
@@ -32,13 +40,22 @@ jobs:
       - name: Run spider for UTC yesterday
         run: python spider_yesterday_1012.py
 
-      - name: Commit daily results
+      - name: Commit daily results (rebase-safe)
         run: |
+          set -e
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/*.csv
-          git commit -m "chore: daily RSS results (UTC $(date -u +'%Y-%m-%d'))" || echo "No changes to commit"
-          git push
+
+          git add output/*.csv || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: daily RSS results (UTC $(date -u +'%Y-%m-%d'))"
+          git fetch origin main
+          git pull --rebase origin main
+          git push origin HEAD:main
 
   run-weekly-aggregate:
     # 只在“周一 01:10”那条 cron 或手动触发时跑
@@ -47,6 +64,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Print UTC time
         run: date -u
@@ -62,10 +82,19 @@ jobs:
       - name: Aggregate last week (UTC)
         run: python weekly_aggregate.py
 
-      - name: Commit weekly results
+      - name: Commit weekly results (rebase-safe)
         run: |
+          set -e
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/weekly/*.csv
-          git commit -m "chore: weekly RSS aggregate (UTC $(date -u +'%Y-%m-%d'))" || echo "No changes to commit"
-          git push
+
+          git add output/weekly/*.csv || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: weekly RSS aggregate (UTC $(date -u +'%Y-%m-%d'))"
+          git fetch origin main
+          git pull --rebase origin main
+          git push origin HEAD:main
