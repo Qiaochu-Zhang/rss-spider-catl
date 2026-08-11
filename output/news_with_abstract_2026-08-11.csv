@@ -1,0 +1,279 @@
+﻿title,link,source,published_str,pub_date,doi,last_author,abstract,abstract_source,must_have_abstract
+Trions as Fundamental Species in Chemically Doped Polymer Semiconductors,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202600019?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-09 09:39:24 UTC,2026-08-09 09:39:24+00:00,10.1002/adma.202600019,Natalie Stingelin,"ABSTRACT
+                  
+                    Doping is a cornerstone strategy for enhancing charge transport in semiconducting polymers, important for their application in, for example, semi‐transparent electrode materials, thermoelectric devices, and antistatic coatings. Both chemical and electrochemical doping have, for this purpose, been the focus of extensive research resulting in considerable progress. However, the interactions between neutral excitons and doping‐induced charges to form multi‐particle states are largely unexplored in soft organic semiconductors, and their signatures remain poorly understood. Here, we demonstrate that coupling between excitons and polarons in doped polymers can lead to bound states such as trions (i.e., quasiparticles of an electron and two holes delocalized across three chromophores for
+                    p
+                    ‐doping), or bound exciton‐hole pairs. Combining spectroscopic evidence with theoretical insights, we hypothesize that polymer architecture, dopant chemistry, and charge delocalization govern the formation and stability of these multi‐particle states. More broadly, our findings reveal that trions and bound exciton‐hole pairs—that is, three‐body entities—are a key species in organic semiconductors that could open new pathways toward optoelectronic functionalities beyond conventional doping, including enhanced charge transport and quantum‐coherent excitations.",crossref,0
+Dual Oxygen Precursors Boosting the Ionic Conductivity of Glassy Electrolytes for All‐Solid‐State Sodium Batteries,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74493?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-09 09:42:10 UTC,2026-08-09 09:42:10+00:00,10.1002/adma.74493,Yaxiang Lu,"ABSTRACT
+                  
+                    Amorphous halide‐based solid electrolytes (SEs) are promising candidates for all‐solid‐state Na batteries (ASSNaBs) due to their structural flexibility and favorable mechanical properties. Among them, aluminum‐based halide electrolytes are particularly attractive owing to their low cost and oxidative stability; however, previously reported systems typically exhibit limited room‐temperature ionic conductivity (&lt;1 mS cm
+                    −1
+                    ). In this work, we report the synthesis of a transparent, viscoelastic Na–Al SE with the specific composition 0.6NaClO–AlCl
+                    3
+                    –0.175SeO
+                    2
+                    , achieved through the strategic introduction of dual oxygen sources (NaClO and SeO
+                    2
+                    ). This approach enables the modulation of charge carrier concentrations while simultaneously supplying sufficient oxygen. Furthermore, we introduce the concept of deoxygenation enthalpy to rationalize the selection of these dual oxygen sources among various oxide candidates. The resulting electrolyte achieves a high Na
+                    +
+                    conductivity of 2.03 mS cm
+                    −1
+                    at ambient temperatures, among the highest reported for Na–Al halide electrolytes. Molecular dynamics simulations confirm that segmental motion within the disordered framework actively facilitates Na
+                    +
+                    transport, underpinning the observed viscoelastic behavior. When integrated into ASSNaB with uncoated NaNi
+                    0.4
+                    Fe
+                    0.2
+                    Mn
+                    0.4
+                    O
+                    2
+                    cathode, the electrolyte enables stable long‐term cycling and superior thermal compatibility, demonstrating practical applicability. This work establishes a new paradigm in rational precursor design for high‐performance viscoelastic SEs.",crossref,0
+Lysosome‐Targeted Self‐Adjuvanting Ammonia Nanogenerator Potentiates Hepatocellular Carcinoma Immunotherapy via Ammonia Death,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74542?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-09 09:44:41 UTC,2026-08-09 09:44:41+00:00,10.1002/adma.74542,Aili Suo,"ABSTRACT
+                  
+                    Ammonia death is a recently identified form of regulated cell death with unique molecular mechanisms and prominent anticancer activity. Nevertheless, its efficacy is severely restricted by the absence of tumor‐targeted ammonia delivery vehicles and poorly defined immunogenic properties. Herein, we develop a lysosome‐targeted ammonia nanogenerator (denoted AlN@HA) to induce ammonia death in hepatocellular carcinoma (HCC) cells and boost HCC immunotherapy. Following CD44 receptor‐mediated endocytosis, AlN@HA preferentially accumulates within lysosomes and undergoes in situ hydrolysis to produce excessive ammonia and nanoscopic aluminum hydroxide (Al(OH)
+                    3
+                    ). Intralysosomal ammonia overload further drives lysosomal alkalinization and membrane permeabilization, autophagic flux blockade, and mitochondrial dysfunction. This sequential signaling cascade elicits tumor cell ammonia death and triggers robust immunogenic cell death. Meanwhile, the hydrolytic byproduct Al(OH)
+                    3
+                    functions as an intrinsic adjuvant to facilitate dendritic cell maturation. Additionally, ammonia‐mediated neutralization of intratumor lactic acid reverses the immunosuppressive tumor microenvironment. In vivo results verify that AlN@HA‐initiated ammonia death markedly suppresses local tumor proliferation and activates systemic antitumor immune responses, thereby sensitizing HCC to antiprogrammed cell death 1 immunotherapy. This study clarifies the immunological features of tumor ammonia death, establishes a lysosome‐targeted ammonia delivery strategy, and highlights ammonia death as a viable synergistic modality for HCC combination immunotherapy.",crossref,0
+Liquid Crystal Elastomer‐Based Haptic Pixel Arrays at Your Fingertips for Advanced Human–Machine Interfaces,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74546?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-09 09:48:21 UTC,2026-08-09 09:48:21+00:00,10.1002/adma.74546,Danqing Liu,"ABSTRACT
+                  The sense of touch is underutilized in our digital lives, especially when compared to the prevalence and complexity of information transfer through our visual and auditory interactions with devices; the impact of this is profound as touch plays a major role in our perception of our world, and its omission in our commonly used devices limits our accessibility to the digital space, particularly for blind and visually impaired users. Fortunately, the stimuli‐responsive shape‐morphing properties of liquid crystal elastomers (LCEs) promise a solution: in our work, we mechanically program an LCE bilayer coating to achieve durable, high‐amplitude switchable surface protrusions, or tactile pixels, which we assemble into a digital platform for generating tactile images and haptic feedback. We further characterize and describe our tactile pixel design by microscopy techniques and simulations that use the neo‐classical theory of rubber elasticity. We demonstrate safe and effective electronically addressable activation of individual LCE pixels within seconds, accompanied by a psychophysical evaluation of tactile line orientation discrimination in which the performance of our LCE tactile pixels is comparable to swell paper, a standard tactile graphic medium. Thereby, we establish LCEs as a contender for the next‐generation dynamic tactile displays.",crossref,0
+Antiphase Boundaries Regulate Phase Stability and Performance in DMA+‐Assisted CsPbI3‐Based Perovskites,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74538?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-09 09:48:34 UTC,2026-08-09 09:48:34+00:00,10.1002/adma.74538,Zhi‐Yi Hu,"ABSTRACT
+                  
+                    CsPbI
+                    3
+                    ‐based perovskites are promising absorbers for tandem solar cells owing to their optimal bandgap (∼1.7 eV). However, the phase transition from photoactive γ‐CsPbI
+                    3
+                    to non‐photoactive δ‐CsPbI
+                    3
+                    remains a major obstacle and is strongly governed by microstructural defects formed during film growth. Among these, Ruddlesden–Popper antiphase boundaries (RP‐APBs) are particularly prevalent and exhibit competing effects, relieving lattice strain while simultaneously facilitating moisture penetration, ion migration, and nonradiative recombination. Here, we systematically regulate RP‐APB defects in γ‐phase CsPbI
+                    3
+                    thin films and elucidate their decisive influence on both phase stability and optoelectronic performance. A compositional strategy based on PbI
+                    2
+                    excess effectively reduces RP‐APB density but induces edge‐sharing [PbI
+                    6
+                    ]
+                    4−
+                    motifs that nucleate the δ phase. In contrast, a dimethylammonium (DMA
+                    +
+                    )‐assisted phase‐engineering strategy forms β‐(DMA,Cs)PbI
+                    3
+                    , which intrinsically suppresses RP‐APB formation while preserving the photoactive perovskite framework. As a result, RP‐APB‐free β‐phase films exhibit prolonged carrier lifetimes, strongly suppressed nonradiative recombination, and the lowest apparent trap densities, enabling a champion power conversion efficiency of 20.23% together with markedly enhanced operational, thermal, and ambient‐air stability. This work demonstrates that regulating crystalline defects, exemplified by RP‐APBs, plays a critical role in achieving both stable and efficient perovskite solar cells.",crossref,0
+Bubble‐Assisted Dynamic Confinement Enables Programmable Solid‐State Photoswitching and Heterogeneous Photoresponsive Architectures,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74453?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-09 09:50:36 UTC,2026-08-09 09:50:36+00:00,10.1002/adma.74453,Yali Qiao,"ABSTRACT
+                  
+                    Achieving programmable photoisomerization of azobenzenes in the solid‐state remains a long‐standing challenge for photoresponsive materials. Here, we introduce a dynamic soft‐confinement strategy using bubble‐assisted assembly to manipulate molecular aggregation via tunable surface energy at the solid‐liquid interface. By controlling the morphologies of microfluidic channels (necktie‐like, strip‐like, and necklace‐like), we achieve distinct self‐assembled aggregates of microcubes, corded scaffolds, and microplates, with tailored freedom of the photoswitchable molecule. The strip‐like channel, formed by thinning bubble walls, traps metastable intermediates, yielding a corded scaffold structure with favorable light penetration, weaker intermolecular interactions, and loosened molecular packing for isomerization. This design achieves near‐quantitative bidirectional
+                    E
+                    ⇆
+                    Z
+                    photoisomerization (96%–98%) in the solid‐state, rivaling solution‐like performance. Multi‐scale characterization and computational analyses reveal the critical role of confined aggregation kinetics in controlling molecular motion. Furthermore, heterogeneous patterning demonstrates programmable photoresponsive arrays for photomechanical applications. This strategy provides a scalable platform for dynamically controlling supramolecular self‐assembly pathways and designing solid‐state photoresponsive materials with programmable functions.",crossref,0
+"Machine Learning‐Guided Additive Manufacturing of Multilayer Aerogels for Ultrabroadband, Ultralow‐Reflection Electromagnetic Shielding",https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74565?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-09 09:52:11 UTC,2026-08-09 09:52:11+00:00,10.1002/adma.74565,Zhihui Zeng,"ABSTRACT
+                  The development of broadband, low‐reflection electromagnetic interference (EMI) shielding materials is critically needed to suppress secondary electromagnetic pollution. Here, we report a machine learning (ML)‐guided additive manufacturing strategy for precisely fabricating multilayer gradient transition metal carbides/nitrides (MXene)‐based aerogels with spatially programmed electrical conductivity. Our approach synergistically integrates sustainable cellulose nanofibers with a utilization MXene dispersion, genetic algorithm‐enabled structural optimization, and direct‐ink writing for precise fabrication. The resulting aerogels achieve benchmark EMI shielding performance, characterized by an ultralow average reflectivity (R) of 0.045 and sustained absorptivity (A) above 0.9 over an ultrabroad bandwidth of 30.3 GHz (9.7–40.0 GHz), remarkably surpassing existing materials. This success, validated by the close agreement among ML predictions, simulations, and experiments, demonstrates a powerful data‐driven paradigm. Consequently, this study establishes a comprehensive blueprint for the ML‐accelerated development of next‐generation, intelligent electromagnetic protection systems centered on lightweight, absorption‐dominant aerogels.",crossref,0
+Sustainable Poly(Lactic Acid)/Graphene Oxide Bioelectronic Platform for Neurotransmitters Sensing and Tunable Stimulation of Astrocytes,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74487?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-09 09:54:45 UTC,2026-08-09 09:54:45+00:00,10.1002/adma.74487,Emanuele Treossi,"ABSTRACT
+                  
+                    Biocompatible and biodegradable electrode platforms were developed using laser‐scribed poly(lactic acid)/graphene oxide (PLA/GO) composites, prepared via an innovative waterborne dispersion method. Laser treatment enabled the formation of graphene/graphite‐like structures. By varying the fluence of the laser used, it was possible to modulate the physico–chemical properties of the conductive traces obtained, finally leading to materials characterized by tunable sheet resistance, chemical structure, and morphology. Thanks to the low charge transfer resistance and the peculiar electrocatalytic and antifouling properties observed, the platforms were applied as electrochemical sensors for the detection of various biomarkers in biological fluids, namely ascorbic and uric acid, nicotinamide adenine dinucleotide (NADH) and catecholamine‐based neurotransmitters, outperforming commercial carbon screen‐printed electrodes. Contextually, laser‐scribed electrodes were used to demonstrate the effectiveness of a novel approach for selectively stimulating Ca
+                    2
+                    +
+                    signaling in astrocytes. The results here reported open the possibility to apply laser‐scribed PLA/GO as innovative eco‐sustainable solutions for simultaneous treatment of pathological conditions and monitoring of the resulting neurotransmitter expression in in vitro and in vivo models.",crossref,0
+3D‐Printed Architected Cholesteric Liquid Crystal Displays With Spatiotemporal Color Modulation,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74517?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-09 10:00:13 UTC,2026-08-09 10:00:13+00:00,10.1002/adma.74517,Ji Liu,"ABSTRACT
+                  Cholesteric liquid crystals (CLCs) can exhibit reversible structural colors through selective reflection from their helical superstructures when well‐defined planar alignment and a visible‐range helical pitch are established. Although CLC photonic systems have been extended beyond planar cells to 3D geometries such as droplets, shells, and fibers, the integrated fabrication of complex architected CLC display structures with programmable spatiotemporal color control remains underexplored. Here, we introduce a multi‐material 3D printing approach that advances 3D‐printed CLCs from static photonic patterns to architected display systems with spatiotemporally controllable color output. Shear‐thinning CLC composite inks enable high‐fidelity extrusion while retaining reversible structural coloration, supporting patterned films and freestanding 3D photonic architectures. Co‐printed conductive Joule‐heating circuits form monolithic electrothermal devices, where local temperature and reflection wavelength are precisely encoded via circuit geometry. This strategy achieves spatiotemporally programmable multicolor outputs within a single device. Integrated into a soft robotic gripper, the system provides real‐time visual temperature feedback and enables adaptive actuation, establishing a scalable materials‐to‐device framework for programmable, interactive photonic architectures.",crossref,0
+Ultrafast Electrochromic Flexible Displays via Solvent‐Induced Porous and Loosely Packed Films,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523062?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-09 10:01:39 UTC,2026-08-09 10:01:39+00:00,10.1002/adma.202523062,Hong Meng,"ABSTRACT
+                  Electrochromic devices (ECDs) represent one of the promising application areas of organic electrochromic materials, offering advantages such as low power consumption and nonemissive operation based on ambient light modulation. However, current electrochromic materials typically exhibit limited response speeds, which still pose a significant challenge to realizing truly dynamic display technology. In this work, we used tetrahydrofuran (THF) to induce solvation in a hydroxyl‐terminated side‐chain electrochromic polymer. The hydrogen bonds formed during this process generate induced polarization, which promotes the aligned arrangement of surrounding solvent molecules. Consequently, the uneven distribution of solvent triggers phase separation during spin‐coating, ultimately forming a porous electrochromic film with a high specific surface area. By constructing this multi‐layered porous thin film, we achieve a coloration response time of 0.87 s and a bleaching response time of 0.22 s, while maintaining a high optical contrast of 70.89% at 500 nm. Additionally, benefiting from the ability of hydrogen bonding to alleviate mechanical stress, we fabricated both active and passive display matrix prototypes on rigid and flexible substrates, achieving a fast switching rate of 0.1 s under a low operating voltage of 1.4 V (Bleaching time = 5 ms). This strategy exhibits a certain degree of generality, highlighting the potential of side‐chain‐engineered, solvent‐induced assembly for developing ultrafast electrochromic display materials.",crossref,0
+Bionic Flexible Wrinkled Strain Sensors With Water‑Accelerated Self‐healing Capability for Underwater Detection and Motion Interaction,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74573?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-09 10:07:59 UTC,2026-08-09 10:07:59+00:00,10.1002/adma.74573,Luquan Ren,"ABSTRACT
+                  Developing flexible sensors capable of long‐term, high‐sensitivity monitoring for flow fields and motion interactions is crucial for advancing unmanned underwater operations. However, flexible sensors always face challenges in achieving underwater superior self‐healing performance and high sensitivity simultaneously. Here, inspired by human skin, we present a method combining force‐driven wool spiral regulation with high‐temperature to fabricate a flexible sensor with random wrinkled microstructures. Importantly, the sensor resumed usable output within just 8 min of incurring damage because dynamic borate ester bonds were applied to accelerate its underwater self‐healing rate via hydrolysis‐re esterification reactions. This bionic self‐healing wrinkled flexible sensor achieves high underwater sensitivity, with average response and recovery time of only 124 ms and 112 ms, respectively, compared with most reported underwater flexible sensors with the same type of material of exceeding 200 ms. Notably, it maintains signal stability and functional continuity over 5,000 cycles following underwater self‐healing. We further demonstrated its use in underwater vehicle model and human motion for confirming its underwater continuously outputting stable and sensitive signals. These findings advance the underwater self‐healing flexible sensing units, with the potential to solve long‐term and high‐sensitivity condition monitoring towards underwater robotics, and water‐resistant human‐machine interfaces.",crossref,0
+An efficient analytical model for stress-induced capacity fade in pouch lithium-ion batteries,https://www.sciencedirect.com/science/article/pii/S0306261926012687?dgcid=rss_sd_all,ScienceDirect Publication: Applied Energy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Shengben Wu,,,0
+Decarbonization potential and limits of e-fuel policies in the EU,https://www.sciencedirect.com/science/article/pii/S0301421526004635?dgcid=rss_sd_all,ScienceDirect Publication: Energy Policy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Íñigo Capellán-Pérez,,,0
+Bridging the transition: Economic and environmental impact assessment of rural natural gas adoption in Beijing,https://www.sciencedirect.com/science/article/pii/S0301421526004799?dgcid=rss_sd_all,ScienceDirect Publication: Energy Policy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Yu Hao,,,0
+Breaking the data scarcity barrier in HVAC fault diagnosis via feature-sample collaborative augmentation,https://www.sciencedirect.com/science/article/pii/S0306261926012638?dgcid=rss_sd_all,ScienceDirect Publication: Applied Energy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Afshin Afshari,,,0
+"Hypercube: A hybrid physics-learning framework for rapid, robust urban building energy modeling",https://www.sciencedirect.com/science/article/pii/S0306261926011232?dgcid=rss_sd_all,ScienceDirect Publication: Applied Energy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Yu Qian Ang,,,0
+"A GIS-MCDA method for renewable energy prosumer integration in road construction compound siting: development, demonstration, and evaluation",https://www.sciencedirect.com/science/article/pii/S0306261926012766?dgcid=rss_sd_all,ScienceDirect Publication: Applied Energy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Apollo Tutesigensi,,,0
+Harnessing multiple home-microgrids as cloud energy storage for resource compensation: A comprehensive review,https://www.sciencedirect.com/science/article/pii/S0306261926012006?dgcid=rss_sd_all,ScienceDirect Publication: Applied Energy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Hamidreza Gholinezhadomran,,,0
+Prospects and challenges: Can co-production of natural gas hydrate with shallow and deep gas achieve “1 + 1 + 1 > 3” in marine gas exploitation?,https://www.sciencedirect.com/science/article/pii/S030626192601202X?dgcid=rss_sd_all,ScienceDirect Publication: Applied Energy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Mucong Zi,,,0
+High-efficiency GaSb thermophotovoltaic cell demonstrated on a planar heat source up to 1800 K for high-temperature applications,https://www.sciencedirect.com/science/article/pii/S0306261926013061?dgcid=rss_sd_all,ScienceDirect Publication: Applied Energy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Liangliang Tang,,,0
+Residential load aggregation for secondary frequency regulation: A privacy-preserving online learning-based approach,https://www.sciencedirect.com/science/article/pii/S0306261926012699?dgcid=rss_sd_all,ScienceDirect Publication: Applied Energy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Mohannad Alhazmi,,,0
+Resilient energy management in hydrogen-integrated microgrids using actor-critic reinforcement learning,https://www.sciencedirect.com/science/article/pii/S0306261926012249?dgcid=rss_sd_all,ScienceDirect Publication: Applied Energy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Goran Strbac,,,0
+Revealing the coupling mechanism between reaction uniformity and electrochemical performance in redox flow batteries,https://www.sciencedirect.com/science/article/pii/S0306261926013139?dgcid=rss_sd_all,ScienceDirect Publication: Applied Energy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Haoran Jiang,,,0
+Flexibility-supported optimal scheduling for integrated energy systems under extreme typhoon disasters,https://www.sciencedirect.com/science/article/pii/S0306261926012961?dgcid=rss_sd_all,ScienceDirect Publication: Applied Energy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Zhaohong Bie,,,0
+Assessment of microbial hydrogen technologies over the last decade: is it a future-ready technology?,https://www.sciencedirect.com/science/article/pii/S0306261926011669?dgcid=rss_sd_all,ScienceDirect Publication: Applied Energy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Arpita Nandy,,,0
+A high-fibre diet-derived microbial polyphenol metabolite boosts T-cell stemness in cancer immunotherapy,https://www.nature.com/articles/s41565-026-02246-6,Nature Nanotechnology,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,10.1038/s41565-026-02246-6,Ian A. Parish,,,0
+Goniopolar kagome materials boost transverse thermoelectricity,https://www.nature.com/articles/s41563-026-02706-3,Nature Materials,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,10.1038/s41563-026-02706-3,,,,0
+Oral nano-delivery of a gut microbial metabolite enhances T cell stemness for cancer immunotherapy,https://www.nature.com/articles/s41565-026-02235-9,Nature Nanotechnology,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,10.1038/s41565-026-02235-9,James J. Moon,"Gut microbial metabolites play crucial roles in regulating systemic immunity, but their mechanisms and limited drug-like properties remain unresolved. Here we report an oral nano-formulation that leverages gut microbial metabolites to modulate T cell metabolism and amplify antitumour immunity. Through an in vitro screening of gut microbial metabolites, we identified 3,4-dihydroxybenzoic acid that improved adoptive T cell therapy and enhanced CD8+ T cell stemness by suppressing glycolysis and regulating the Akt-mTORC1-Myc pathway. To harness the potency of 3,4-dihydroxybenzoic acid for systemic cancer immunotherapy, we engineered a 3,4-dihydroxybenzoic acid prodrug nano-emulsion, significantly increasing its oral absorption and half-life. In multiple murine tumour models, the oral nano-emulsion enhanced the expansion of antigen-specific, stem-like CD8+ T cells, sensitizing tumours to anti-PD-1 blockade and exerting robust antitumour efficacy. By integrating nanotechnology with microbial-metabolite-based immunotherapy, this study establishes a mechanistic link between the gut microbiota and T cell immunity, offering a promising approach for cancer immunotherapy.",nature_html,0
+Author Correction: Reprogramming yeast metabolism for customized starch-rich micro-grain through low-carbon microbial manufacturing,https://www.nature.com/articles/s41467-026-76546-9,Nature Communications,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,10.1038/s41467-026-76546-9,Yanhe Ma,,,0
+Automatic value learning results in counterproductive human behavior,https://www.nature.com/articles/s41467-026-76297-7,Nature Communications,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,10.1038/s41467-026-76297-7,Nitzan Shahar,"Humans are adept at accurately estimating the value of available choices from accumulated experience. However, cognitive processing also incorporates irrelevant information during deliberation, undermining decision accuracy. Here, we show that credit assignment operates automatically, allowing irrelevant action features to acquire value and impair choice behavior. Across four preregistered experiments (N = 504, 158, 195, 319) and a re-analysis of previously published data (N = 50), we examine outcome-irrelevant learning to spatial-motor and visual action features under conditions of explicit instruction and extensive training. In all cases, automatic value updating persists even when participants clearly understood which features were non-predictive of reward, and reliance on these irrelevant values led to suboptimal choices. Moreover, working memory capacity, known as a key regulatory resource, predicts the magnitude of this automatic outcome-irrelevant learning. Collectively, our results broaden the concept of automatic cognitive processing beyond the selective-attention literature to encompass reinforcement learning mechanisms.",nature_html,0
+Author Correction: Natural photosynthetic system for restoring homeostasis of animal organelle interaction network,https://www.nature.com/articles/s41467-026-76547-8,Nature Communications,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,10.1038/s41467-026-76547-8,Pengfei Chen,,,0
+Author Correction: High-resolution mapping reveals features of bacterial NAD-capped RNAs and stress-responsive transcription initiation,https://www.nature.com/articles/s41467-026-76095-1,Nature Communications,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,10.1038/s41467-026-76095-1,Yiji Xia,,,0
+Author Correction: Edge-guided inverse design of digital metamaterial-based mode multiplexers for high-capacity multi-dimensional optical interconnect,https://www.nature.com/articles/s41467-026-76545-w,Nature Communications,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,10.1038/s41467-026-76545-w,Nan Chi,,,0
+Author Correction: Genome analysis of Channel millet reveals a wild dodecaploid shaped by environmental variability,https://www.nature.com/articles/s41467-026-76541-0,Nature Communications,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,10.1038/s41467-026-76541-0,Robert J. Henry,,,0
+Controlling surface kinetics scales p-type two-dimensional semiconductors,https://www.nature.com/articles/s41563-026-02704-5,Nature Materials,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,10.1038/s41563-026-02704-5,Yi Du,,,0
+"Geography, not geology: Testing the empirical foundations of the EU critical raw materials act",https://www.sciencedirect.com/science/article/pii/S0301421526004672?dgcid=rss_sd_all,ScienceDirect Publication: Energy Policy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Diego Solar,,,0
+"Strait of Hormuz disruption, geopolitical dispute intensity and Brent-based hedging effectiveness in European fuel markets: Empirical evidence from DCC-GARCH approach",https://www.sciencedirect.com/science/article/pii/S0301421526004556?dgcid=rss_sd_all,ScienceDirect Publication: Energy Policy,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,,Zaiba Ali,,,0
+Multi-channel high-speed flip-chip packaging platform for thin-film lithium niobate photonic circuits,https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag480/8758332?rss=1,National Science Review Advance Access,2026-08-10 00:00:00 UTC,2026-08-10 00:00:00+00:00,10.1093/nsr/nwag480,Cheng Wang,"To address the urgent need for multi-channel high-speed electrical interfacing of thin-film lithium niobate (TFLN) photonic circuits, we realize a flip-chip packaging platform capable of simultaneously delivering 13 high-speed and 32 low-speed electronic signals to a centimeter-sized TFLN chip. The platform exhibits low flip-chip bonding loss and low inter-channel crosstalk over a broad bandwidth up to 50 GHz. Leveraging this packaging platform, we demonstrate high-speed electrical interfacing with two proof-of-concept TFLN photonic circuits, namely a 2 × 8 optical switch and an electro-optic comb-based transmitter. The switch achieves arbitrary 8-channel routing with ~3 dB insertion loss,",rss_oup,0
+Gold‐Stabilized Copper Enables Anodic Hydrogen Evolution for Ultralow‐Voltage CO‐to‐Ethylene Electrolysis,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74459?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-10 03:53:48 UTC,2026-08-10 03:53:48+00:00,10.1002/adma.74459,Edward H. Sargent,"ABSTRACT
+                  
+                    Electrochemical upgrading from CO
+                    2
+                    and CO to ethylene has typically been coupled with the oxygen evolution reaction (OER), whose high standard reduction potential leads to full‐cell voltages above 2.2 V at 200 mA/cm
+                    2
+                    . Here we explored an alternative anodic reaction, where furfural is oxidized to furoic acid, a reaction having a low onset potential (
+                    E
+                    0
+                    ≈ 0.05 V vs. RHE), and which reaction is accompanied by the evolution of H
+                    2
+                    : an anodic hydrogen evolution reaction (a‐HER). In early experiments, copper oxide as a‐HER catalyst exhibit limited stability (&lt; 10 min) and activity (80 mA/cm
+                    2
+                    at 0.8
+                    V
+                    cell
+                    ). We found, using operando spectroscopy, that hydroxide forms on the surface of copper and deactivates the desired a‐HER process. When we screened candidate metal dopants, we found the best to be Au, for it served to stabilize the Cu surface, enablinained a‐HER: 260 mA cm
+                    −2
+                    at 0.8
+                    V
+                    cell
+                    and stable operation for 16 h. Integrated into a paired CO‐to‐ethylene electrolyzer, this delivered 0.92 V
+                    fullcell
+                    at 400 mA cm
+                    −2
+                    , required 40 GJ electricity per ton of ethylene, and co‐produced 460 kg H
+                    2
+                    per ton ethylene. To enable comparison with CO
+                    2
+                    ‐to‐ethylene reports, which require an additional CO
+                    2
+                    ‐to‐CO step, we estimate ∼ 69 GJ/tonC
+                    2
+                    H
+                    4
+                    .",crossref,0
+Multi‐Cation Synergy in Medium‐Entropy Spinel Oxide for Practical Zn‐Ion Pouch Cells,https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71420?af=R,Wiley: Advanced Energy Materials: Table of Contents,2026-08-10 05:36:36 UTC,2026-08-10 05:36:36+00:00,10.1002/aenm.71420,Yuping Wu,"ABSTRACT
+                  
+                    Manganese oxide cathodes for aqueous zinc‐ion batteries (AZIBs) are promising yet hindered by dissolution, structural collapse, and disproportionation, limiting their practical application. Herein, we report a multi‐cation synergistic medium‐entropy oxide (MEO) cathode with a spinel structure, Zn
+                    0.86
+                    Co
+                    0.28
+                    Ni
+                    0.04
+                    Cu
+                    0.03
+                    Mn
+                    2
+                    O
+                    4
+                    (ZCNCMO), designed to overcome these limitations. Theoretical and experimental analyses demonstrate that integrating multiple cations into a single spinel lattice leverages entropy stabilization to suppress elemental segregation, lattice distortion, and active species dissolution, thereby preserving structural integrity during cycling. As a result, the Zn‐ZCNCMO battery delivers a specific capacity of 520 mAh g
+                    −1
+                    at 0.5 A g
+                    −1
+                    , and retains a capacity retention of 98.3% after 2600 cycles at 2 A g
+                    −1
+                    . The pouch cell delivers excellent stability over 1000 cycles and exhibits an energy density of 239.9 Wh kg
+                    −1
+                    based on active materials and practically 56.3 Wh kg
+                    −1
+                    , which is also integrated with solar and wind energy to power consumer electronics with exceptional safety under nail‐penetration and cutting tests.",crossref,0
+Al‐Induced Cu2+‐Cu+ Polarization in Ampere‐Level Waste‐Treating‐Waste Electrocatalysis for Concurrent CO2‐to‐C2 Production and Plastic Upcycling,https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71413?af=R,Wiley: Advanced Energy Materials: Table of Contents,2026-08-10 05:36:46 UTC,2026-08-10 05:36:46+00:00,10.1002/aenm.71413,Wee‐Jun Ong,"ABSTRACT
+                  
+                    This study introduces a pair‐electro‐reforming strategy that integrates polyethylene terephthalate (PET) upcycling with CO
+                    2
+                    reduction, enabling the concurrent generation of value‐added chemicals under energy‐efficient conditions. Central to this study is the self‐supported AlCuIn nanorod/N‐doped graphene oxide (ACI/NG) electrocatalyst, synthesized via a dual‐hydrothermal approach. The strategic incorporation of Al induces a strong Cu
+                    2+
+                    ‐to‐Cu
+                    +
+                    polarization effect, significantly enhancing catalytic activation by optimizing the *CO interaction, thereby promoting efficient CO
+                    2
+                    ‐to‐C
+                    2
+                    conversion. This polarization‐driven enhancement enables tunable product selectivity, achieving faradaic efficiencies (FE) of 91.2% for C
+                    1
+                    products (CI/NG) and 93.8% for C
+                    2
+                    products (ACI/NG). Furthermore, the system demonstrates ampere‐level performance, maintaining a high current density of −0.65 A cm
+                    −2
+                    for over 100 h. PET hydrolysate oxidation proceeds with nearly 100% selectivity toward formic acid, highlighting its efficacy in electrochemical valorization. DFT analysis and in‐situ spectroscopy reveal *CO dimerization and key intermediate formation, offering mechanistic insights into polarization‐enhanced catalysis. Moreover, a solar‐powered CO
+                    2
+                    RR||PET hydrolysate oxidation system achieves η
+                    STF
+                    values of 17.01% and 16.31%, ensuring operational stability. Ultimately, this work provides a scalable, energy‐efficient platform for waste‐treating CO
+                    2
+                    and plastic waste, advancing sustainable electrocatalysis.",crossref,0
+Solar‐Driven Upcycling of Waste Polyethylene Terephthalate,https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71417?af=R,Wiley: Advanced Energy Materials: Table of Contents,2026-08-10 05:45:26 UTC,2026-08-10 05:45:26+00:00,10.1002/aenm.71417,Jinxing Chen,"ABSTRACT
+                  Polyethylene terephthalate (PET) waste poses a significant environmental challenge, while existing recycling technologies are often constrained by high energy demand, limited product value, and inefficient carbon utilization. Solar‐driven PET upcycling offers an attractive alternative by harnessing renewable solar energy to convert PET waste into fuels and value‐added chemicals. This Review summarizes recent advances in photocatalytic, photothermal, and photoelectrochemical PET upcycling. Particular emphasis is placed on reaction mechanisms, selective bond activation, charge and energy management, and catalyst and device design. The opportunities and limitations of different solar‐driven pathways are discussed in terms of reaction routes, product selectivity, and process integration. Finally, future challenges and perspectives are outlined, providing guidance for the development of scalable solar‐driven technologies for plastic valorization and a circular plastics economy.",crossref,0
+Holistic Inside‐Out Reconfiguration of Ni‐Rich Cathodes via a Thermally Self‐Driven Strategy for Exceptional Chemomechanical Stability,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74572?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-10 08:06:15 UTC,2026-08-10 08:06:15+00:00,10.1002/adma.74572,Qiang Li,"ABSTRACT
+                  
+                    Ni‐rich layered oxides (LiNi
+                    
+                      x
+                    
+                    Co
+                    
+                      y
+                    
+                    Mn
+                    1−
+                    
+                      x
+                    
+                    −
+                    
+                      y
+                    
+                    O
+                    2
+                    ,
+                    x
+                    ≥ 0.8) are indispensable for high‐energy‐density lithium‐ion batteries, yet they suffer from severe chemomechanical degradation driven by the synergy of internal microcracking and interfacial parasitic side reactions. Existing strategies inherently suffer from decoupled regulation of mechanical and chemical instabilities that fail to address these issues holistically. Here, we develop an inside‐out structural reconfiguration strategy driven by the thermal decomposition of nitrates, concurrently tailoring the core, bulk, and surface of NCM811 in a single calcination step. This reconstruction generates a stress‐buffering central pore architecture that effectively homogenizes anisotropic lattice strain and suppresses crack nucleation. Concurrently, the regulated Nd
+                    3+
+                    diffusion forms a coherent Nd
+                    4
+                    [LiNi]O
+                    8
+                    (NLNO) perovskite phase within the bulk lattice, creating a pinning effect that stabilizes the layered framework and enhances charge transport. Furthermore, excess Nd‐species evolve into a conformal NLNO surface coating, acting as a physical barrier and oxygen reservoir to resist electrolyte attack and oxygen evolution. The modified cathode delivers an exceptional capacity retention (95.7% after 200 cycles at 4.5 V) and exceptional rate capability (157.1 mAh g
+                    −1
+                    at 5 C). Even under stringent conditions (4.6 V or 45°C), a superior retention of 87.8% is maintained after 200 cycles, demonstrating remarkable chemomechanical robustness.",crossref,0
+Polymeric Sorbents as Energy‐Efficient Alternative to Cryogenic Distillation for Light Hydrocarbon Purification,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74471?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-10 08:11:11 UTC,2026-08-10 08:11:11+00:00,10.1002/adma.74471,Hong‐Cai Zhou,"ABSTRACT
+                  Light hydrocarbons are essential gaseous compounds for fuel, polymer manufacturing, fertilizer production, and so forth. The efficient recovery and purification of these gases are still challenging despite their significant industrial and domestic relevance. They exist in the gaseous state under ambient temperature and pressure and are typically recovered from natural gas streams containing multiple close‐boiling‐point hydrocarbons. So far, cryogenic distillation is the commonly used method for their separation and purification. It operates based on their boiling‐point differences, which amounts to significant energy consumption. To address this limitation, adsorption‐based technology is considered an energy‐efficient alternative for the purification of light hydrocarbons. To this effect, polymeric sorbents such as porous polymer networks (PPNs) are a potential alternative due to their robustness, stability, and scalability. This review provides an extensive discussion on cryogenic distillation, applications of light hydrocarbons, and progress in light hydrocarbon purification using polymeric sorbents. Additionally, the pore structure, stability, and techno–economic feasibility of the polymeric sorbents were extensively examined, covering current progress, mechanism of guest molecule separation, characterization techniques, and hurdles still encountered. Overall, since their application in light hydrocarbon separation is still an evolving field, this review will facilitate robust designs by providing the necessary know‐how and roadmaps needed for advancement.",crossref,0
+Self‐Growing Conductive Hydrogels Establish Volumetric Biointerfaces for Cardiac Conduction Restoration,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74527?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-10 08:13:27 UTC,2026-08-10 08:13:27+00:00,10.1002/adma.74527,Ji Liu,"ABSTRACT
+                  
+                    Restoring three‐dimensional electrical conduction in infarcted myocardium remains a critical challenge, as conventional conductive hydrogel patches largely remain surface‐confined and prevent electrical coupling of residual cardiomyocytes within fibrotic scars. Here, we present a self‐growing conductive volumetric interface (SCOVE) that transforms surface‐confined biointerfaces into tissue‐integrated, three‐dimensional conductive networks. SCOVE is delivered as an injectable hydrogel precursor containing the tissue‐permeable conductive monomer 3,4‐ethylenedioxythiophene‐acetic acid sodium salt (ETE), which rapidly infiltrates infarcted myocardium and undergoes endogenous glucose‐triggered oxidative polymerization to self‐grow a conductive polyETE network in situ. The resulting hydrogel gels within 1 min, reaches cardiac‐mimetic conductivity (∼1 S m
+                    −
+                    1
+                    ) within 45 min, and preserves native myocardial mechanics without inducing tissue stiffening. In a rat myocardial infarction model, SCOVE penetrates the infarct, reduces scar resistivity by 2.54‐fold compared with conventional 2D conductive patches, restores electrical coupling among residual cardiomyocytes, enhances Cx43 expression, and accelerates impulse propagation. By replacing static, surface‐confined conductive patches with self‐growing volumetric biointerfaces, this work establishes a generalizable strategy for reconstructing tissue electrophysiology and advancing bioelectronic therapies for myocardial infarction and other electrically dysfunctional tissues.",crossref,0
+Dual‐Binder‐Enabled 18‐µm‐Thick High‐Conductivity Sulfide Electrolyte Film for High‐Energy‐Density All‐Solid‐State Batteries,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74533?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-10 08:15:02 UTC,2026-08-10 08:15:02+00:00,10.1002/adma.74533,Li‐Zhen Fan,"ABSTRACT
+                  
+                    The development of ultrathin, high ionic conductivity sulfide solid‐state electrolytes (SSEs) film is essential for achieving high‐energy‐density all‐solid‐state batteries (ASSBs). However, conventional chemically inert binders inevitably impede Li‐ion transport kinetics within SSE films, and the underlying Li‐ion transport mechanisms remain elusive. In this work, we report an Li‐ion‐conductive polymer binder (LiTFSI‐PMEMA) and integrate it with SSEs via dry processing to fabricate an ultrathin SSE film (USF). The resulting USF is only 18 µm thick and exhibits a high ionic conductivity of 1.56 mS cm
+                    ‒1
+                    . By combining cryogenic transmission electron microscopy (cryo‐TEM), solid‐state nuclear magnetic resonance (ssNMR), and theoretical simulations, we propose an Li
+                    +
+                    transport model in which the SSE phase provides the dominant conduction pathway, while the polymer binder and SSEs/polymer contact regions can assist local Li
+                    +
+                    transport continuity between neighboring SSE particles. When implemented in ASSBs, the USF exhibits exceptional interfacial compatibility and kinetic stability, enabling a long‐term cycling life with 70.3% capacity retention over 1500 cycles. Furthermore, a LiNi
+                    0.7
+                    Co
+                    0.2
+                    Mn
+                    0.1
+                    O
+                    2
+                    ||USF||nSi pouch cell delivers a high stack‐level energy density of 322.7 Wh kg
+                    ‒1
+                    . This work provides crucial insights into the multiphase Li‐ion transport kinetics and demonstrates a scalable manufacturing strategy for sulfide‐based ASSBs.",crossref,0
+Intrinsic Defect‐Induced Exotic Polarization Waves in Van der Waals Layered Topological Insulators,https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74576?af=R,Wiley: Advanced Materials: Table of Contents,2026-08-10 08:20:12 UTC,2026-08-10 08:20:12+00:00,10.1002/adma.74576,Lu You,"ABSTRACT
+                  
+                    The engineering of inversion symmetry breaking in 2D materials, for example via interlayer twist‐angle control, has initiated the ‘2D age’ due to its transformation on the landscape of fundamental research and technological advances. The typical paradigms include nonlinear optical response, topological polar vortices, superconductivity, etc. In parallel, intrinsic structural defects induced inversion symmetry breaking also serves as a lever to create emerging physical phenomena. Here, we report on discovery of antisite defects induced exotic polarization waves in bismuth telluride (Bi
+                    2
+                    )
+                    m
+                    (Bi
+                    2
+                    Te
+                    3
+                    )
+                    n
+                    topological insulator thin films by using atomic‐resolution scanning transmission electron microscopy. Despite weak van der Waals (vdW) bonding, driven by stochastic antisite defects, a quasi‐cycloidal polarization order is observed along normal direction of the vdW interface in Bi
+                    2
+                    Te
+                    3
+                    phase. As metallic Bi‐Bi bilayer is replaced by Bi‐Te bilayer via regular Te
+                    Bi
+                    antisite defect, hyperbolic polarization waves are observed at septuple layers (SLs) of the Bi
+                    8
+                    Te
+                    9
+                    phase. Our first‐principles calculations reveal that the face‐shared unusual packing of acentric octahedral units and insufficient carrier screening are responsible for the polar metal states. Our findings provide a new degree of freedom to manipulate the physical properties of topological insulators (TIs) and their future device application.",crossref,0
